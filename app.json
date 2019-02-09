@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "planapp-mobile",
-    "slug": "planapp-mobile",
+    "name": "Incident",
+    "slug": "incident",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
